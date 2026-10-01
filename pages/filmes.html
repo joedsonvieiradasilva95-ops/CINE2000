@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Catálogo de Filmes — CINE 2000</title>
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <header class="topbar">
+      <a class="brand" href="../index.html"><span>CINE</span> 2000</a>
+      <nav class="nav">
+        <a class="" href="../index.html">Início</a>
+        <a class="active" href="filmes.html">Filmes</a>
+        <a class="" href="clientes.html">Clientes</a>
+        <a class="" href="exemplares.html">Exemplares</a>
+        <a class="" href="locacoes.html">Locações</a>
+      </nav>
+    </header>
+    
+<main class="page-wrap">
+  <div class="page-head"><p class="eyebrow">CINE 2000</p><h1>Catálogo de Filmes</h1></div>
+  
+<div class="filters page-filters">
+<input id="q" type="search" placeholder="Pesquisar filme...">
+<select id="cat"><option value="">Todas as categorias</option></select>
+<select id="year"><option value="">Todos os anos</option></select>
+</div>
+<div id="movies" class="movie-grid"></div>
+<div class="pagination">
+<button id="prev" class="page-btn">← Anterior</button><span id="info"></span><button id="next" class="page-btn">Próxima →</button>
+</div>
+
+</main>
+<footer class="footer">CINE 2000 • Sistema de gestão de locadora retrô</footer>
+<script>
+const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]));
+
+let D=[],page=1; const per=24;
+fetch("../data/catalogo.json").then(r=>r.json()).then(x=>{D=x.filmes; 
+const cats=[...new Set(D.map(x=>x.categoria))].sort(), years=[...new Set(D.map(x=>x.ano_lancamento))].sort((a,b)=>b-a);
+cat.innerHTML+='<option>'+cats.join('</option><option>')+'</option>';
+year.innerHTML+='<option>'+years.join('</option><option>')+'</option>'; render();
+});
+function render(){let q=document.getElementById('q').value.toLowerCase(),c=cat.value,y=year.value;
+let a=D.filter(m=>(!q||m.titulo.toLowerCase().includes(q))&&(!c||m.categoria==c)&&(!y||m.ano_lancamento==y));
+let pages=Math.max(1,Math.ceil(a.length/per));page=Math.min(page,pages);let p=a.slice((page-1)*per,page*per);
+movies.innerHTML=p.map((m,i)=>`<article class="movie-card"><div class="cover c${i%4+1}"><span>${esc(m.categoria)}</span><b>${String(m.ano_lancamento).slice(-2)}</b></div><div class="movie-info"><h3>${esc(m.titulo)}</h3><p>${m.ano_lancamento} • ${m.duracao} min • ${esc(m.classificacao)}</p></div></article>`).join('');
+info.textContent=`Página ${page} de ${pages} • ${a.length} filmes`;prev.disabled=page==1;next.disabled=page==pages}
+['q','cat','year'].forEach(id=>document.getElementById(id).addEventListener('input',()=>{page=1;render()}));
+prev.onclick=()=>{page--;render()};next.onclick=()=>{page++;render()};
+
+</script>
+</body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Locações — CINE 2000</title>
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <header class="topbar">
+      <a class="brand" href="../index.html"><span>CINE</span> 2000</a>
+      <nav class="nav">
+        <a class="" href="../index.html">Início</a>
+        <a class="" href="filmes.html">Filmes</a>
+        <a class="" href="clientes.html">Clientes</a>
+        <a class="" href="exemplares.html">Exemplares</a>
+        <a class="active" href="locacoes.html">Locações</a>
+      </nav>
+    </header>
+    
+<main class="page-wrap">
+  <div class="page-head"><p class="eyebrow">CINE 2000</p><h1>Locações</h1></div>
+  
+<div class="notice">
+<h2>Controle de locações</h2>
+<p>Esta área está preparada para registrar locações e devoluções. Os registros operacionais serão ligados ao PostgreSQL/Supabase na próxima etapa, mantendo o histórico separado de clientes, filmes e exemplares.</p>
+</div>
+<div class="dashboard-grid">
+<div class="metric-card"><strong>ATIVA</strong><span>Locação em andamento</span></div>
+<div class="metric-card"><strong>DEVOLVIDA</strong><span>Histórico concluído</span></div>
+<div class="metric-card"><strong>ATRASADA</strong><span>Devolução pendente</span></div>
+</div>
+<div class="client-form-card">
+<h2>Nova locação</h2>
+<form class="client-form" onsubmit="event.preventDefault();document.getElementById('msg').textContent='Formulário preparado. A gravação será conectada ao Supabase na etapa do banco.'">
+<select required><option value="">Selecione o cliente</option><option>Clientes serão carregados do banco</option></select>
+<select required><option value="">Selecione o exemplar</option><option>Exemplares serão carregados do banco</option></select>
+<input required type="date">
+<button class="page-btn">Registrar locação</button>
+</form><p id="msg" class="muted"></p>
+</div>
+
+</main>
+<footer class="footer">CINE 2000 • Sistema de gestão de locadora retrô</footer>
+<script>
+const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]));
+
+</script>
+</body>
+</html>

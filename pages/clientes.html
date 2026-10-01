@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Clientes — CINE 2000</title>
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <header class="topbar">
+      <a class="brand" href="../index.html"><span>CINE</span> 2000</a>
+      <nav class="nav">
+        <a class="" href="../index.html">Início</a>
+        <a class="" href="filmes.html">Filmes</a>
+        <a class="active" href="clientes.html">Clientes</a>
+        <a class="" href="exemplares.html">Exemplares</a>
+        <a class="" href="locacoes.html">Locações</a>
+      </nav>
+    </header>
+    
+<main class="page-wrap">
+  <div class="page-head"><p class="eyebrow">CINE 2000</p><h1>Clientes</h1></div>
+  
+<div class="filters page-filters">
+<input id="q" type="search" placeholder="Pesquisar nome, e-mail ou telefone...">
+<select id="status"><option value="">Todos os status</option><option value="true">Ativos</option><option value="false">Inativos</option></select>
+</div>
+<div class="client-form-card">
+<h2>Novo cliente</h2>
+<form id="form" class="client-form">
+<input id="name" required placeholder="Nome completo">
+<input id="email" required type="email" placeholder="E-mail">
+<input id="phone" placeholder="Telefone">
+<input id="date" required type="date">
+<button class="page-btn" type="submit">Cadastrar cliente</button>
+</form><p id="msg" class="muted"></p>
+</div>
+<div id="clients" class="clients-list"></div>
+<div class="pagination"><button id="prev" class="page-btn">← Anterior</button><span id="info"></span><button id="next" class="page-btn">Próxima →</button></div>
+
+</main>
+<footer class="footer">CINE 2000 • Sistema de gestão de locadora retrô</footer>
+<script>
+const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]));
+
+let D=[],page=1;const per=20;
+fetch("../data/catalogo.json").then(r=>r.json()).then(x=>{D=x.clientes;render()});
+function render(){let q=document.getElementById('q').value.toLowerCase(),s=status.value;
+let a=D.filter(c=>(!q||`${c.nome} ${c.email} ${c.telefone}`.toLowerCase().includes(q))&&(!s||String(c.ativo)==s));
+let pages=Math.max(1,Math.ceil(a.length/per));page=Math.min(page,pages);let p=a.slice((page-1)*per,page*per);
+clients.innerHTML=p.map(c=>`<article class="client-row"><div class="client-avatar">${esc(c.nome.split(' ').map(x=>x[0]).slice(0,2).join(''))}</div><div class="client-main"><strong>${esc(c.nome)}</strong><span>${esc(c.email)}</span></div><div class="client-meta"><span>${esc(c.telefone)}</span><small>${esc(c.data_cadastro)}</small></div><span class="client-status ${c.ativo?'active':'inactive'}">${c.ativo?'ATIVO':'INATIVO'}</span></article>`).join('');
+info.textContent=`Página ${page} de ${pages} • ${a.length} clientes`;prev.disabled=page==1;next.disabled=page==pages}
+['q','status'].forEach(id=>document.getElementById(id).addEventListener('input',()=>{page=1;render()}));prev.onclick=()=>{page--;render()};next.onclick=()=>{page++;render()};
+form.onsubmit=e=>{e.preventDefault();let email=document.getElementById('email').value.trim();if(D.some(c=>c.email.toLowerCase()==email.toLowerCase())){msg.textContent='Este e-mail já está cadastrado.';return}let n={id_cliente:Math.max(...D.map(c=>+c.id_cliente))+1,nome:name.value,email,telefone:phone.value,data_cadastro:date.value,ativo:true};D.push(n);form.reset();msg.textContent='Cliente cadastrado nesta sessão.';render()};
+
+</script>
+</body>
+</html>

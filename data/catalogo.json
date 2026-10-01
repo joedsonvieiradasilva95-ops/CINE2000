@@ -1,0 +1,3160 @@
+{
+  "filmes": [
+    {
+      "id_filme": 1,
+      "titulo": "Toy Story",
+      "categoria": "Animação",
+      "ano_lancamento": 1995,
+      "duracao": 102,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 2,
+      "titulo": "Toy Story 2",
+      "categoria": "Animação",
+      "ano_lancamento": 1999,
+      "duracao": 92,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 3,
+      "titulo": "O Rei Leão",
+      "categoria": "Animação",
+      "ano_lancamento": 1994,
+      "duracao": 115,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 4,
+      "titulo": "Mulan",
+      "categoria": "Animação",
+      "ano_lancamento": 1998,
+      "duracao": 115,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 5,
+      "titulo": "Tarzan",
+      "categoria": "Animação",
+      "ano_lancamento": 1999,
+      "duracao": 117,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 6,
+      "titulo": "Hércules",
+      "categoria": "Animação",
+      "ano_lancamento": 1997,
+      "duracao": 95,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 7,
+      "titulo": "A Pequena Sereia",
+      "categoria": "Animação",
+      "ano_lancamento": 1989,
+      "duracao": 126,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 8,
+      "titulo": "Aladdin",
+      "categoria": "Animação",
+      "ano_lancamento": 1992,
+      "duracao": 114,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 9,
+      "titulo": "Pocahontas",
+      "categoria": "Animação",
+      "ano_lancamento": 1995,
+      "duracao": 144,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 10,
+      "titulo": "A Bela e a Fera",
+      "categoria": "Animação",
+      "ano_lancamento": 1991,
+      "duracao": 89,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 11,
+      "titulo": "Matrix",
+      "categoria": "Ficção",
+      "ano_lancamento": 1999,
+      "duracao": 142,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 12,
+      "titulo": "Star Wars: Episódio I — A Ameaça Fantasma",
+      "categoria": "Ficção",
+      "ano_lancamento": 1999,
+      "duracao": 145,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 13,
+      "titulo": "O Show de Truman",
+      "categoria": "Drama",
+      "ano_lancamento": 1998,
+      "duracao": 118,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 14,
+      "titulo": "Armageddon",
+      "categoria": "Ação",
+      "ano_lancamento": 1998,
+      "duracao": 98,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 15,
+      "titulo": "Independence Day",
+      "categoria": "Ação",
+      "ano_lancamento": 1996,
+      "duracao": 111,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 16,
+      "titulo": "Men in Black",
+      "categoria": "Ficção",
+      "ano_lancamento": 1997,
+      "duracao": 131,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 17,
+      "titulo": "Gladiador",
+      "categoria": "Ação",
+      "ano_lancamento": 2000,
+      "duracao": 151,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 18,
+      "titulo": "X-Men",
+      "categoria": "Ação",
+      "ano_lancamento": 2000,
+      "duracao": 108,
+      "classificacao": "18 anos"
+    },
+    {
+      "id_filme": 19,
+      "titulo": "Missão: Impossível 2",
+      "categoria": "Ação",
+      "ano_lancamento": 2000,
+      "duracao": 90,
+      "classificacao": "18 anos"
+    },
+    {
+      "id_filme": 20,
+      "titulo": "As Panteras",
+      "categoria": "Ação",
+      "ano_lancamento": 2000,
+      "duracao": 104,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 21,
+      "titulo": "O Patriota",
+      "categoria": "Ação",
+      "ano_lancamento": 2000,
+      "duracao": 106,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 22,
+      "titulo": "O Tigre e o Dragão",
+      "categoria": "Ação",
+      "ano_lancamento": 2000,
+      "duracao": 102,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 23,
+      "titulo": "Duro de Matar",
+      "categoria": "Ação",
+      "ano_lancamento": 1988,
+      "duracao": 122,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 24,
+      "titulo": "Duro de Matar 2",
+      "categoria": "Ação",
+      "ano_lancamento": 1990,
+      "duracao": 134,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 25,
+      "titulo": "Velocidade Máxima",
+      "categoria": "Ação",
+      "ano_lancamento": 1994,
+      "duracao": 133,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 26,
+      "titulo": "Velocidade Máxima 2",
+      "categoria": "Ação",
+      "ano_lancamento": 1997,
+      "duracao": 110,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 27,
+      "titulo": "Con Air",
+      "categoria": "Ação",
+      "ano_lancamento": 1997,
+      "duracao": 146,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 28,
+      "titulo": "A Rocha",
+      "categoria": "Ação",
+      "ano_lancamento": 1996,
+      "duracao": 99,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 29,
+      "titulo": "Face/Off",
+      "categoria": "Ação",
+      "ano_lancamento": 1997,
+      "duracao": 155,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 30,
+      "titulo": "O Fugitivo",
+      "categoria": "Ação",
+      "ano_lancamento": 1993,
+      "duracao": 154,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 31,
+      "titulo": "O Exterminador do Futuro 2",
+      "categoria": "Ação",
+      "ano_lancamento": 1991,
+      "duracao": 86,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 32,
+      "titulo": "Robocop",
+      "categoria": "Ação",
+      "ano_lancamento": 1987,
+      "duracao": 94,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 33,
+      "titulo": "Predador",
+      "categoria": "Ação",
+      "ano_lancamento": 1987,
+      "duracao": 106,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 34,
+      "titulo": "Rambo: Programado para Matar",
+      "categoria": "Ação",
+      "ano_lancamento": 1982,
+      "duracao": 152,
+      "classificacao": "18 anos"
+    },
+    {
+      "id_filme": 35,
+      "titulo": "Indiana Jones e os Caçadores da Arca Perdida",
+      "categoria": "Aventura",
+      "ano_lancamento": 1981,
+      "duracao": 155,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 36,
+      "titulo": "Indiana Jones e a Última Cruzada",
+      "categoria": "Aventura",
+      "ano_lancamento": 1989,
+      "duracao": 127,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 37,
+      "titulo": "A Múmia",
+      "categoria": "Aventura",
+      "ano_lancamento": 1999,
+      "duracao": 96,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 38,
+      "titulo": "Jurassic Park",
+      "categoria": "Aventura",
+      "ano_lancamento": 1993,
+      "duracao": 138,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 39,
+      "titulo": "O Mundo Perdido: Jurassic Park",
+      "categoria": "Aventura",
+      "ano_lancamento": 1997,
+      "duracao": 111,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 40,
+      "titulo": "De Volta para o Futuro",
+      "categoria": "Aventura",
+      "ano_lancamento": 1985,
+      "duracao": 143,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 41,
+      "titulo": "De Volta para o Futuro II",
+      "categoria": "Aventura",
+      "ano_lancamento": 1989,
+      "duracao": 133,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 42,
+      "titulo": "De Volta para o Futuro III",
+      "categoria": "Aventura",
+      "ano_lancamento": 1990,
+      "duracao": 99,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 43,
+      "titulo": "O Máskara",
+      "categoria": "Comédia",
+      "ano_lancamento": 1994,
+      "duracao": 89,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 44,
+      "titulo": "Ace Ventura: Um Detetive Diferente",
+      "categoria": "Comédia",
+      "ano_lancamento": 1994,
+      "duracao": 137,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 45,
+      "titulo": "Ace Ventura 2",
+      "categoria": "Comédia",
+      "ano_lancamento": 1995,
+      "duracao": 119,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 46,
+      "titulo": "Debi & Lóide",
+      "categoria": "Comédia",
+      "ano_lancamento": 1994,
+      "duracao": 94,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 47,
+      "titulo": "Todo Mundo em Pânico",
+      "categoria": "Comédia",
+      "ano_lancamento": 2000,
+      "duracao": 130,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 48,
+      "titulo": "Entrando Numa Fria",
+      "categoria": "Comédia",
+      "ano_lancamento": 2000,
+      "duracao": 155,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 49,
+      "titulo": "O Professor Aloprado",
+      "categoria": "Comédia",
+      "ano_lancamento": 1996,
+      "duracao": 93,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 50,
+      "titulo": "O Professor Aloprado 2",
+      "categoria": "Comédia",
+      "ano_lancamento": 2000,
+      "duracao": 148,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 51,
+      "titulo": "American Pie: A Primeira Vez é Inesquecível",
+      "categoria": "Comédia",
+      "ano_lancamento": 1999,
+      "duracao": 116,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 52,
+      "titulo": "Curtindo a Vida Adoidado",
+      "categoria": "Comédia",
+      "ano_lancamento": 1986,
+      "duracao": 119,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 53,
+      "titulo": "Os Caça-Fantasmas",
+      "categoria": "Comédia",
+      "ano_lancamento": 1984,
+      "duracao": 112,
+      "classificacao": "18 anos"
+    },
+    {
+      "id_filme": 54,
+      "titulo": "Os Caça-Fantasmas 2",
+      "categoria": "Comédia",
+      "ano_lancamento": 1989,
+      "duracao": 102,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 55,
+      "titulo": "Um Tira da Pesada",
+      "categoria": "Comédia",
+      "ano_lancamento": 1984,
+      "duracao": 96,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 56,
+      "titulo": "Um Tira da Pesada II",
+      "categoria": "Comédia",
+      "ano_lancamento": 1987,
+      "duracao": 86,
+      "classificacao": "18 anos"
+    },
+    {
+      "id_filme": 57,
+      "titulo": "Um Príncipe em Nova York",
+      "categoria": "Comédia",
+      "ano_lancamento": 1988,
+      "duracao": 90,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 58,
+      "titulo": "Forrest Gump",
+      "categoria": "Drama",
+      "ano_lancamento": 1994,
+      "duracao": 110,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 59,
+      "titulo": "À Espera de um Milagre",
+      "categoria": "Drama",
+      "ano_lancamento": 1999,
+      "duracao": 113,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 60,
+      "titulo": "Clube da Luta",
+      "categoria": "Drama",
+      "ano_lancamento": 1999,
+      "duracao": 124,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 61,
+      "titulo": "Beleza Americana",
+      "categoria": "Drama",
+      "ano_lancamento": 1999,
+      "duracao": 148,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 62,
+      "titulo": "O Resgate do Soldado Ryan",
+      "categoria": "Drama",
+      "ano_lancamento": 1998,
+      "duracao": 107,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 63,
+      "titulo": "A Lista de Schindler",
+      "categoria": "Drama",
+      "ano_lancamento": 1993,
+      "duracao": 141,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 64,
+      "titulo": "Titanic",
+      "categoria": "Romance",
+      "ano_lancamento": 1997,
+      "duracao": 145,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 65,
+      "titulo": "Ghost: Do Outro Lado da Vida",
+      "categoria": "Romance",
+      "ano_lancamento": 1990,
+      "duracao": 138,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 66,
+      "titulo": "Uma Linda Mulher",
+      "categoria": "Romance",
+      "ano_lancamento": 1990,
+      "duracao": 94,
+      "classificacao": "18 anos"
+    },
+    {
+      "id_filme": 67,
+      "titulo": "Sintonia de Amor",
+      "categoria": "Romance",
+      "ano_lancamento": 1993,
+      "duracao": 94,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 68,
+      "titulo": "Jerry Maguire",
+      "categoria": "Romance",
+      "ano_lancamento": 1996,
+      "duracao": 144,
+      "classificacao": "18 anos"
+    },
+    {
+      "id_filme": 69,
+      "titulo": "Shakespeare Apaixonado",
+      "categoria": "Romance",
+      "ano_lancamento": 1998,
+      "duracao": 89,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 70,
+      "titulo": "10 Coisas que Eu Odeio em Você",
+      "categoria": "Romance",
+      "ano_lancamento": 1999,
+      "duracao": 100,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 71,
+      "titulo": "O Casamento do Meu Melhor Amigo",
+      "categoria": "Romance",
+      "ano_lancamento": 1997,
+      "duracao": 126,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 72,
+      "titulo": "A Bruxa de Blair",
+      "categoria": "Terror",
+      "ano_lancamento": 1999,
+      "duracao": 94,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 73,
+      "titulo": "Pânico",
+      "categoria": "Terror",
+      "ano_lancamento": 1996,
+      "duracao": 120,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 74,
+      "titulo": "Pânico 2",
+      "categoria": "Terror",
+      "ano_lancamento": 1997,
+      "duracao": 150,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 75,
+      "titulo": "Pânico 3",
+      "categoria": "Terror",
+      "ano_lancamento": 2000,
+      "duracao": 142,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 76,
+      "titulo": "Eu Sei o que Vocês Fizeram no Verão Passado",
+      "categoria": "Terror",
+      "ano_lancamento": 1997,
+      "duracao": 132,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 77,
+      "titulo": "Eu Ainda Sei o que Vocês Fizeram no Verão Passado",
+      "categoria": "Terror",
+      "ano_lancamento": 1998,
+      "duracao": 117,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 78,
+      "titulo": "A Hora do Pesadelo",
+      "categoria": "Terror",
+      "ano_lancamento": 1984,
+      "duracao": 109,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 79,
+      "titulo": "O Silêncio dos Inocentes",
+      "categoria": "Suspense",
+      "ano_lancamento": 1991,
+      "duracao": 103,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 80,
+      "titulo": "Seven: Os Sete Crimes Capitais",
+      "categoria": "Suspense",
+      "ano_lancamento": 1995,
+      "duracao": 119,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 81,
+      "titulo": "O Colecionador de Ossos",
+      "categoria": "Suspense",
+      "ano_lancamento": 1999,
+      "duracao": 149,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 82,
+      "titulo": "Memento",
+      "categoria": "Suspense",
+      "ano_lancamento": 2000,
+      "duracao": 103,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 83,
+      "titulo": "Premonição",
+      "categoria": "Terror",
+      "ano_lancamento": 2000,
+      "duracao": 148,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 84,
+      "titulo": "Snatch: Porcos e Diamantes",
+      "categoria": "Crime",
+      "ano_lancamento": 2000,
+      "duracao": 121,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 85,
+      "titulo": "Pulp Fiction",
+      "categoria": "Crime",
+      "ano_lancamento": 1994,
+      "duracao": 110,
+      "classificacao": "18 anos"
+    },
+    {
+      "id_filme": 86,
+      "titulo": "Os Bons Companheiros",
+      "categoria": "Crime",
+      "ano_lancamento": 1990,
+      "duracao": 88,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 87,
+      "titulo": "Scarface",
+      "categoria": "Crime",
+      "ano_lancamento": 1983,
+      "duracao": 103,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 88,
+      "titulo": "O Poderoso Chefão",
+      "categoria": "Crime",
+      "ano_lancamento": 1972,
+      "duracao": 135,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 89,
+      "titulo": "O Poderoso Chefão II",
+      "categoria": "Crime",
+      "ano_lancamento": 1974,
+      "duracao": 95,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 90,
+      "titulo": "Heat: Cidade Contra o Crime",
+      "categoria": "Crime",
+      "ano_lancamento": 1995,
+      "duracao": 111,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 91,
+      "titulo": "Os Intocáveis",
+      "categoria": "Crime",
+      "ano_lancamento": 1987,
+      "duracao": 95,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 92,
+      "titulo": "Los Angeles: Cidade Proibida",
+      "categoria": "Crime",
+      "ano_lancamento": 1997,
+      "duracao": 138,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 93,
+      "titulo": "Cassino",
+      "categoria": "Crime",
+      "ano_lancamento": 1995,
+      "duracao": 148,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 94,
+      "titulo": "O Informante",
+      "categoria": "Drama",
+      "ano_lancamento": 1999,
+      "duracao": 154,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 95,
+      "titulo": "American Psycho",
+      "categoria": "Suspense",
+      "ano_lancamento": 2000,
+      "duracao": 153,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 96,
+      "titulo": "Requiem para um Sonho",
+      "categoria": "Drama",
+      "ano_lancamento": 2000,
+      "duracao": 132,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 97,
+      "titulo": "Quero Ser John Malkovich",
+      "categoria": "Comédia",
+      "ano_lancamento": 1999,
+      "duracao": 109,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 98,
+      "titulo": "O Grande Lebowski",
+      "categoria": "Comédia",
+      "ano_lancamento": 1998,
+      "duracao": 130,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 99,
+      "titulo": "Quem Vai Ficar com Mary?",
+      "categoria": "Comédia",
+      "ano_lancamento": 1998,
+      "duracao": 136,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 100,
+      "titulo": "Austin Powers: 000, um Agente Nada Discreto",
+      "categoria": "Comédia",
+      "ano_lancamento": 1997,
+      "duracao": 103,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 101,
+      "titulo": "Austin Powers: O Agente 'Bond' Cama",
+      "categoria": "Comédia",
+      "ano_lancamento": 1999,
+      "duracao": 109,
+      "classificacao": "18 anos"
+    },
+    {
+      "id_filme": 102,
+      "titulo": "Space Jam",
+      "categoria": "Família",
+      "ano_lancamento": 1996,
+      "duracao": 103,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 103,
+      "titulo": "Jumanji",
+      "categoria": "Aventura",
+      "ano_lancamento": 1995,
+      "duracao": 143,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 104,
+      "titulo": "Stargate",
+      "categoria": "Ficção",
+      "ano_lancamento": 1994,
+      "duracao": 87,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 105,
+      "titulo": "O Quinto Elemento",
+      "categoria": "Ficção",
+      "ano_lancamento": 1997,
+      "duracao": 129,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 106,
+      "titulo": "Gattaca",
+      "categoria": "Ficção",
+      "ano_lancamento": 1997,
+      "duracao": 146,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 107,
+      "titulo": "Contato",
+      "categoria": "Ficção",
+      "ano_lancamento": 1997,
+      "duracao": 116,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 108,
+      "titulo": "Alien: O Oitavo Passageiro",
+      "categoria": "Ficção",
+      "ano_lancamento": 1979,
+      "duracao": 101,
+      "classificacao": "18 anos"
+    },
+    {
+      "id_filme": 109,
+      "titulo": "Aliens: O Resgate",
+      "categoria": "Ficção",
+      "ano_lancamento": 1986,
+      "duracao": 120,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 110,
+      "titulo": "Alien 3",
+      "categoria": "Ficção",
+      "ano_lancamento": 1992,
+      "duracao": 134,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 111,
+      "titulo": "Alien: A Ressurreição",
+      "categoria": "Ficção",
+      "ano_lancamento": 1997,
+      "duracao": 112,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 112,
+      "titulo": "Soldado Universal",
+      "categoria": "Ação",
+      "ano_lancamento": 1992,
+      "duracao": 146,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 113,
+      "titulo": "Brinquedo Assassino",
+      "categoria": "Terror",
+      "ano_lancamento": 1988,
+      "duracao": 88,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 114,
+      "titulo": "Sexta-Feira 13",
+      "categoria": "Terror",
+      "ano_lancamento": 1980,
+      "duracao": 115,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 115,
+      "titulo": "O Exorcista",
+      "categoria": "Terror",
+      "ano_lancamento": 1973,
+      "duracao": 121,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 116,
+      "titulo": "Entrevista com o Vampiro",
+      "categoria": "Terror",
+      "ano_lancamento": 1994,
+      "duracao": 154,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 117,
+      "titulo": "Drácula de Bram Stoker",
+      "categoria": "Terror",
+      "ano_lancamento": 1992,
+      "duracao": 115,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 118,
+      "titulo": "O Corvo",
+      "categoria": "Ação",
+      "ano_lancamento": 1994,
+      "duracao": 108,
+      "classificacao": "18 anos"
+    },
+    {
+      "id_filme": 119,
+      "titulo": "Rocky",
+      "categoria": "Drama",
+      "ano_lancamento": 1976,
+      "duracao": 121,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 120,
+      "titulo": "Rocky II",
+      "categoria": "Drama",
+      "ano_lancamento": 1979,
+      "duracao": 150,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 121,
+      "titulo": "Rocky III",
+      "categoria": "Drama",
+      "ano_lancamento": 1982,
+      "duracao": 96,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 122,
+      "titulo": "Rocky IV",
+      "categoria": "Drama",
+      "ano_lancamento": 1985,
+      "duracao": 150,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 123,
+      "titulo": "Top Gun: Ases Indomáveis",
+      "categoria": "Ação",
+      "ano_lancamento": 1986,
+      "duracao": 91,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 124,
+      "titulo": "Platoon",
+      "categoria": "Drama",
+      "ano_lancamento": 1986,
+      "duracao": 120,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 125,
+      "titulo": "Wall Street",
+      "categoria": "Drama",
+      "ano_lancamento": 1987,
+      "duracao": 116,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 126,
+      "titulo": "O Vingador do Futuro",
+      "categoria": "Ficção",
+      "ano_lancamento": 1990,
+      "duracao": 92,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 127,
+      "titulo": "O Último dos Moicanos",
+      "categoria": "Aventura",
+      "ano_lancamento": 1992,
+      "duracao": 90,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 128,
+      "titulo": "Robin Hood: O Príncipe dos Ladrões",
+      "categoria": "Aventura",
+      "ano_lancamento": 1991,
+      "duracao": 115,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 129,
+      "titulo": "Braveheart",
+      "categoria": "Drama",
+      "ano_lancamento": 1995,
+      "duracao": 151,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 130,
+      "titulo": "O Homem da Máscara de Ferro",
+      "categoria": "Aventura",
+      "ano_lancamento": 1998,
+      "duracao": 151,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 131,
+      "titulo": "Lendas da Paixão",
+      "categoria": "Drama",
+      "ano_lancamento": 1994,
+      "duracao": 125,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 132,
+      "titulo": "A Firma",
+      "categoria": "Suspense",
+      "ano_lancamento": 1993,
+      "duracao": 137,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 133,
+      "titulo": "O Cliente",
+      "categoria": "Suspense",
+      "ano_lancamento": 1994,
+      "duracao": 148,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 134,
+      "titulo": "Tempo de Matar",
+      "categoria": "Drama",
+      "ano_lancamento": 1996,
+      "duracao": 146,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 135,
+      "titulo": "A Outra Face",
+      "categoria": "Ação",
+      "ano_lancamento": 1997,
+      "duracao": 132,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 136,
+      "titulo": "Inimigo do Estado",
+      "categoria": "Ação",
+      "ano_lancamento": 1998,
+      "duracao": 139,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 137,
+      "titulo": "O Negociador",
+      "categoria": "Ação",
+      "ano_lancamento": 1998,
+      "duracao": 94,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 138,
+      "titulo": "Máquina Mortífera",
+      "categoria": "Ação",
+      "ano_lancamento": 1987,
+      "duracao": 109,
+      "classificacao": "18 anos"
+    },
+    {
+      "id_filme": 139,
+      "titulo": "Máquina Mortífera 2",
+      "categoria": "Ação",
+      "ano_lancamento": 1989,
+      "duracao": 85,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 140,
+      "titulo": "Máquina Mortífera 3",
+      "categoria": "Ação",
+      "ano_lancamento": 1992,
+      "duracao": 97,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 141,
+      "titulo": "Máquina Mortífera 4",
+      "categoria": "Ação",
+      "ano_lancamento": 1998,
+      "duracao": 151,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 142,
+      "titulo": "Bad Boys",
+      "categoria": "Ação",
+      "ano_lancamento": 1995,
+      "duracao": 147,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 143,
+      "titulo": "O Especialista",
+      "categoria": "Ação",
+      "ano_lancamento": 1994,
+      "duracao": 108,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 144,
+      "titulo": "Lenda Urbana",
+      "categoria": "Terror",
+      "ano_lancamento": 1998,
+      "duracao": 142,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 145,
+      "titulo": "O Enigma do Horizonte",
+      "categoria": "Ficção",
+      "ano_lancamento": 1997,
+      "duracao": 139,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 146,
+      "titulo": "Blade Runner",
+      "categoria": "Ficção",
+      "ano_lancamento": 1982,
+      "duracao": 102,
+      "classificacao": "18 anos"
+    },
+    {
+      "id_filme": 147,
+      "titulo": "O Exterminador do Futuro",
+      "categoria": "Ficção",
+      "ano_lancamento": 1984,
+      "duracao": 104,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 148,
+      "titulo": "12 Macacos",
+      "categoria": "Ficção",
+      "ano_lancamento": 1995,
+      "duracao": 136,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 149,
+      "titulo": "Dark City",
+      "categoria": "Ficção",
+      "ano_lancamento": 1998,
+      "duracao": 94,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 150,
+      "titulo": "Edward Mãos de Tesoura",
+      "categoria": "Fantasia",
+      "ano_lancamento": 1990,
+      "duracao": 126,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 151,
+      "titulo": "O Estranho Mundo de Jack",
+      "categoria": "Fantasia",
+      "ano_lancamento": 1993,
+      "duracao": 137,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 152,
+      "titulo": "A Lenda",
+      "categoria": "Fantasia",
+      "ano_lancamento": 1985,
+      "duracao": 135,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 153,
+      "titulo": "Labirinto",
+      "categoria": "Fantasia",
+      "ano_lancamento": 1986,
+      "duracao": 147,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 154,
+      "titulo": "Highlander",
+      "categoria": "Fantasia",
+      "ano_lancamento": 1986,
+      "duracao": 111,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 155,
+      "titulo": "A História Sem Fim",
+      "categoria": "Fantasia",
+      "ano_lancamento": 1984,
+      "duracao": 149,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 156,
+      "titulo": "Hook: A Volta do Capitão Gancho",
+      "categoria": "Fantasia",
+      "ano_lancamento": 1991,
+      "duracao": 147,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 157,
+      "titulo": "Matilda",
+      "categoria": "Família",
+      "ano_lancamento": 1996,
+      "duracao": 147,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 158,
+      "titulo": "Stuart Little",
+      "categoria": "Família",
+      "ano_lancamento": 1999,
+      "duracao": 113,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 159,
+      "titulo": "Dennis, o Pimentinha",
+      "categoria": "Família",
+      "ano_lancamento": 1993,
+      "duracao": 135,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 160,
+      "titulo": "Querida, Encolhi as Crianças",
+      "categoria": "Família",
+      "ano_lancamento": 1989,
+      "duracao": 100,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 161,
+      "titulo": "Esqueceram de Mim",
+      "categoria": "Família",
+      "ano_lancamento": 1990,
+      "duracao": 151,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 162,
+      "titulo": "Esqueceram de Mim 2",
+      "categoria": "Família",
+      "ano_lancamento": 1992,
+      "duracao": 91,
+      "classificacao": "14 anos"
+    },
+    {
+      "id_filme": 163,
+      "titulo": "O Pestinha",
+      "categoria": "Família",
+      "ano_lancamento": 1990,
+      "duracao": 154,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 164,
+      "titulo": "O Pestinha 2",
+      "categoria": "Família",
+      "ano_lancamento": 1991,
+      "duracao": 97,
+      "classificacao": "16 anos"
+    },
+    {
+      "id_filme": 165,
+      "titulo": "Mary Poppins",
+      "categoria": "Musical",
+      "ano_lancamento": 1964,
+      "duracao": 87,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 166,
+      "titulo": "Grease",
+      "categoria": "Musical",
+      "ano_lancamento": 1978,
+      "duracao": 107,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 167,
+      "titulo": "Dirty Dancing",
+      "categoria": "Romance",
+      "ano_lancamento": 1987,
+      "duracao": 114,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 168,
+      "titulo": "Footloose",
+      "categoria": "Musical",
+      "ano_lancamento": 1984,
+      "duracao": 99,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 169,
+      "titulo": "O Guarda-Costas",
+      "categoria": "Romance",
+      "ano_lancamento": 1992,
+      "duracao": 117,
+      "classificacao": "18 anos"
+    },
+    {
+      "id_filme": 170,
+      "titulo": "Enquanto Você Dormia",
+      "categoria": "Romance",
+      "ano_lancamento": 1995,
+      "duracao": 129,
+      "classificacao": "18 anos"
+    },
+    {
+      "id_filme": 171,
+      "titulo": "Cidade dos Anjos",
+      "categoria": "Romance",
+      "ano_lancamento": 1998,
+      "duracao": 134,
+      "classificacao": "10 anos"
+    },
+    {
+      "id_filme": 172,
+      "titulo": "Mensagem para Você",
+      "categoria": "Romance",
+      "ano_lancamento": 1998,
+      "duracao": 130,
+      "classificacao": "Livre"
+    },
+    {
+      "id_filme": 173,
+      "titulo": "Antes do Amanhecer",
+      "categoria": "Romance",
+      "ano_lancamento": 1995,
+      "duracao": 126,
+      "classificacao": "12 anos"
+    },
+    {
+      "id_filme": 174,
+      "titulo": "Notting Hill",
+      "categoria": "Romance",
+      "ano_lancamento": 1999,
+      "duracao": 85,
+      "classificacao": "Livre"
+    }
+  ],
+  "clientes": [
+    {
+      "id_cliente": 1,
+      "nome": "Thiago Alves",
+      "email": "cliente001@cine2000.local",
+      "telefone": "(31) 98773-5162",
+      "data_cadastro": "2001-10-21",
+      "ativo": true
+    },
+    {
+      "id_cliente": 2,
+      "nome": "Diego Ferreira",
+      "email": "cliente002@cine2000.local",
+      "telefone": "(31) 93392-9756",
+      "data_cadastro": "2004-12-11",
+      "ativo": true
+    },
+    {
+      "id_cliente": 3,
+      "nome": "Renata Mendes",
+      "email": "cliente003@cine2000.local",
+      "telefone": "(31) 94381-1214",
+      "data_cadastro": "2004-11-19",
+      "ativo": true
+    },
+    {
+      "id_cliente": 4,
+      "nome": "Lucas Souza",
+      "email": "cliente004@cine2000.local",
+      "telefone": "(31) 91546-4692",
+      "data_cadastro": "2003-12-04",
+      "ativo": true
+    },
+    {
+      "id_cliente": 5,
+      "nome": "Camila Dias",
+      "email": "cliente005@cine2000.local",
+      "telefone": "(31) 93009-5630",
+      "data_cadastro": "2003-07-02",
+      "ativo": true
+    },
+    {
+      "id_cliente": 6,
+      "nome": "Fernanda Ferreira",
+      "email": "cliente006@cine2000.local",
+      "telefone": "(31) 97440-8669",
+      "data_cadastro": "2004-01-27",
+      "ativo": false
+    },
+    {
+      "id_cliente": 7,
+      "nome": "Juliana Ribeiro",
+      "email": "cliente007@cine2000.local",
+      "telefone": "(31) 91056-2905",
+      "data_cadastro": "2000-02-04",
+      "ativo": true
+    },
+    {
+      "id_cliente": 8,
+      "nome": "Camila Ferreira",
+      "email": "cliente008@cine2000.local",
+      "telefone": "(31) 94217-9874",
+      "data_cadastro": "2000-01-04",
+      "ativo": true
+    },
+    {
+      "id_cliente": 9,
+      "nome": "André Ribeiro",
+      "email": "cliente009@cine2000.local",
+      "telefone": "(31) 94999-2446",
+      "data_cadastro": "2004-10-17",
+      "ativo": true
+    },
+    {
+      "id_cliente": 10,
+      "nome": "André Gomes",
+      "email": "cliente010@cine2000.local",
+      "telefone": "(31) 91105-8232",
+      "data_cadastro": "2002-01-11",
+      "ativo": true
+    },
+    {
+      "id_cliente": 11,
+      "nome": "Carlos Santos",
+      "email": "cliente011@cine2000.local",
+      "telefone": "(31) 97364-5683",
+      "data_cadastro": "2003-09-14",
+      "ativo": true
+    },
+    {
+      "id_cliente": 12,
+      "nome": "Diego Santos",
+      "email": "cliente012@cine2000.local",
+      "telefone": "(31) 94100-1623",
+      "data_cadastro": "2001-01-23",
+      "ativo": true
+    },
+    {
+      "id_cliente": 13,
+      "nome": "Priscila Vieira",
+      "email": "cliente013@cine2000.local",
+      "telefone": "(31) 97041-6695",
+      "data_cadastro": "2001-10-23",
+      "ativo": true
+    },
+    {
+      "id_cliente": 14,
+      "nome": "André Martins",
+      "email": "cliente014@cine2000.local",
+      "telefone": "(31) 93498-1325",
+      "data_cadastro": "2004-04-19",
+      "ativo": true
+    },
+    {
+      "id_cliente": 15,
+      "nome": "Marcelo Dias",
+      "email": "cliente015@cine2000.local",
+      "telefone": "(31) 97475-3725",
+      "data_cadastro": "2003-06-10",
+      "ativo": true
+    },
+    {
+      "id_cliente": 16,
+      "nome": "Fernanda Costa",
+      "email": "cliente016@cine2000.local",
+      "telefone": "(31) 94847-1796",
+      "data_cadastro": "2001-07-18",
+      "ativo": true
+    },
+    {
+      "id_cliente": 17,
+      "nome": "Patrícia Alves",
+      "email": "cliente017@cine2000.local",
+      "telefone": "(31) 98991-2935",
+      "data_cadastro": "2000-04-21",
+      "ativo": true
+    },
+    {
+      "id_cliente": 18,
+      "nome": "Diego Ribeiro",
+      "email": "cliente018@cine2000.local",
+      "telefone": "(31) 98006-7898",
+      "data_cadastro": "2000-04-05",
+      "ativo": true
+    },
+    {
+      "id_cliente": 19,
+      "nome": "Aline Ferreira",
+      "email": "cliente019@cine2000.local",
+      "telefone": "(31) 99441-9840",
+      "data_cadastro": "2003-04-13",
+      "ativo": true
+    },
+    {
+      "id_cliente": 20,
+      "nome": "Juliana Ferreira",
+      "email": "cliente020@cine2000.local",
+      "telefone": "(31) 93546-7701",
+      "data_cadastro": "2000-02-13",
+      "ativo": true
+    },
+    {
+      "id_cliente": 21,
+      "nome": "Felipe Mendes",
+      "email": "cliente021@cine2000.local",
+      "telefone": "(31) 92844-1988",
+      "data_cadastro": "2000-09-21",
+      "ativo": true
+    },
+    {
+      "id_cliente": 22,
+      "nome": "Rafael Mendes",
+      "email": "cliente022@cine2000.local",
+      "telefone": "(31) 94891-8647",
+      "data_cadastro": "2002-08-16",
+      "ativo": true
+    },
+    {
+      "id_cliente": 23,
+      "nome": "Camila Mendes",
+      "email": "cliente023@cine2000.local",
+      "telefone": "(31) 99933-4271",
+      "data_cadastro": "2003-07-17",
+      "ativo": true
+    },
+    {
+      "id_cliente": 24,
+      "nome": "Thiago Oliveira",
+      "email": "cliente024@cine2000.local",
+      "telefone": "(31) 91671-2358",
+      "data_cadastro": "2000-02-15",
+      "ativo": true
+    },
+    {
+      "id_cliente": 25,
+      "nome": "Renata Vieira",
+      "email": "cliente025@cine2000.local",
+      "telefone": "(31) 96320-2697",
+      "data_cadastro": "2003-09-03",
+      "ativo": true
+    },
+    {
+      "id_cliente": 26,
+      "nome": "Patrícia Dias",
+      "email": "cliente026@cine2000.local",
+      "telefone": "(31) 92116-8146",
+      "data_cadastro": "2002-08-16",
+      "ativo": true
+    },
+    {
+      "id_cliente": 27,
+      "nome": "Felipe Vieira",
+      "email": "cliente027@cine2000.local",
+      "telefone": "(31) 91475-2188",
+      "data_cadastro": "2000-06-07",
+      "ativo": true
+    },
+    {
+      "id_cliente": 28,
+      "nome": "Eduardo Vieira",
+      "email": "cliente028@cine2000.local",
+      "telefone": "(31) 94604-6952",
+      "data_cadastro": "2000-06-02",
+      "ativo": true
+    },
+    {
+      "id_cliente": 29,
+      "nome": "Felipe Santos",
+      "email": "cliente029@cine2000.local",
+      "telefone": "(31) 97060-6341",
+      "data_cadastro": "2001-06-18",
+      "ativo": true
+    },
+    {
+      "id_cliente": 30,
+      "nome": "Diego Santos",
+      "email": "cliente030@cine2000.local",
+      "telefone": "(31) 98008-6277",
+      "data_cadastro": "2001-12-25",
+      "ativo": true
+    },
+    {
+      "id_cliente": 31,
+      "nome": "Diego Vieira",
+      "email": "cliente031@cine2000.local",
+      "telefone": "(31) 96134-8460",
+      "data_cadastro": "2000-03-06",
+      "ativo": true
+    },
+    {
+      "id_cliente": 32,
+      "nome": "Fernanda Ribeiro",
+      "email": "cliente032@cine2000.local",
+      "telefone": "(31) 94247-1054",
+      "data_cadastro": "2000-04-13",
+      "ativo": true
+    },
+    {
+      "id_cliente": 33,
+      "nome": "Priscila Martins",
+      "email": "cliente033@cine2000.local",
+      "telefone": "(31) 97358-8073",
+      "data_cadastro": "2001-08-22",
+      "ativo": true
+    },
+    {
+      "id_cliente": 34,
+      "nome": "Fernanda Santos",
+      "email": "cliente034@cine2000.local",
+      "telefone": "(31) 93988-1362",
+      "data_cadastro": "2002-12-27",
+      "ativo": true
+    },
+    {
+      "id_cliente": 35,
+      "nome": "Camila Costa",
+      "email": "cliente035@cine2000.local",
+      "telefone": "(31) 95327-4872",
+      "data_cadastro": "2002-06-23",
+      "ativo": true
+    },
+    {
+      "id_cliente": 36,
+      "nome": "Bruno Dias",
+      "email": "cliente036@cine2000.local",
+      "telefone": "(31) 98167-1199",
+      "data_cadastro": "2004-03-05",
+      "ativo": true
+    },
+    {
+      "id_cliente": 37,
+      "nome": "Lucas Costa",
+      "email": "cliente037@cine2000.local",
+      "telefone": "(31) 95588-5627",
+      "data_cadastro": "2001-02-25",
+      "ativo": true
+    },
+    {
+      "id_cliente": 38,
+      "nome": "Bianca Rocha",
+      "email": "cliente038@cine2000.local",
+      "telefone": "(31) 97458-6321",
+      "data_cadastro": "2003-11-21",
+      "ativo": true
+    },
+    {
+      "id_cliente": 39,
+      "nome": "Bianca Costa",
+      "email": "cliente039@cine2000.local",
+      "telefone": "(31) 96920-6288",
+      "data_cadastro": "2001-10-12",
+      "ativo": true
+    },
+    {
+      "id_cliente": 40,
+      "nome": "Priscila Carvalho",
+      "email": "cliente040@cine2000.local",
+      "telefone": "(31) 91913-1045",
+      "data_cadastro": "2003-06-26",
+      "ativo": true
+    },
+    {
+      "id_cliente": 41,
+      "nome": "André Dias",
+      "email": "cliente041@cine2000.local",
+      "telefone": "(31) 96674-1269",
+      "data_cadastro": "2000-02-15",
+      "ativo": true
+    },
+    {
+      "id_cliente": 42,
+      "nome": "Fernanda Costa",
+      "email": "cliente042@cine2000.local",
+      "telefone": "(31) 99194-6126",
+      "data_cadastro": "2000-01-09",
+      "ativo": false
+    },
+    {
+      "id_cliente": 43,
+      "nome": "Bianca Lima",
+      "email": "cliente043@cine2000.local",
+      "telefone": "(31) 93156-7045",
+      "data_cadastro": "2004-10-04",
+      "ativo": true
+    },
+    {
+      "id_cliente": 44,
+      "nome": "Thiago Rocha",
+      "email": "cliente044@cine2000.local",
+      "telefone": "(31) 99731-6322",
+      "data_cadastro": "2004-05-16",
+      "ativo": false
+    },
+    {
+      "id_cliente": 45,
+      "nome": "Patrícia Lima",
+      "email": "cliente045@cine2000.local",
+      "telefone": "(31) 96205-6661",
+      "data_cadastro": "2004-11-01",
+      "ativo": true
+    },
+    {
+      "id_cliente": 46,
+      "nome": "Juliana Teixeira",
+      "email": "cliente046@cine2000.local",
+      "telefone": "(31) 96121-9553",
+      "data_cadastro": "2003-08-05",
+      "ativo": true
+    },
+    {
+      "id_cliente": 47,
+      "nome": "Priscila Araújo",
+      "email": "cliente047@cine2000.local",
+      "telefone": "(31) 91523-7661",
+      "data_cadastro": "2001-04-17",
+      "ativo": true
+    },
+    {
+      "id_cliente": 48,
+      "nome": "Camila Nunes",
+      "email": "cliente048@cine2000.local",
+      "telefone": "(31) 93652-5720",
+      "data_cadastro": "2003-01-16",
+      "ativo": true
+    },
+    {
+      "id_cliente": 49,
+      "nome": "Priscila Barbosa",
+      "email": "cliente049@cine2000.local",
+      "telefone": "(31) 93897-9275",
+      "data_cadastro": "2003-09-12",
+      "ativo": true
+    },
+    {
+      "id_cliente": 50,
+      "nome": "Lucas Ferreira",
+      "email": "cliente050@cine2000.local",
+      "telefone": "(31) 98914-4460",
+      "data_cadastro": "2003-12-06",
+      "ativo": true
+    },
+    {
+      "id_cliente": 51,
+      "nome": "André Ferreira",
+      "email": "cliente051@cine2000.local",
+      "telefone": "(31) 92756-8527",
+      "data_cadastro": "2004-01-25",
+      "ativo": true
+    },
+    {
+      "id_cliente": 52,
+      "nome": "Renata Vieira",
+      "email": "cliente052@cine2000.local",
+      "telefone": "(31) 95769-7710",
+      "data_cadastro": "2003-11-12",
+      "ativo": true
+    },
+    {
+      "id_cliente": 53,
+      "nome": "Lucas Dias",
+      "email": "cliente053@cine2000.local",
+      "telefone": "(31) 95675-7411",
+      "data_cadastro": "2004-07-02",
+      "ativo": true
+    },
+    {
+      "id_cliente": 54,
+      "nome": "Renata Costa",
+      "email": "cliente054@cine2000.local",
+      "telefone": "(31) 99285-5571",
+      "data_cadastro": "2000-06-19",
+      "ativo": true
+    },
+    {
+      "id_cliente": 55,
+      "nome": "Marcelo Nunes",
+      "email": "cliente055@cine2000.local",
+      "telefone": "(31) 92757-8609",
+      "data_cadastro": "2001-09-06",
+      "ativo": true
+    },
+    {
+      "id_cliente": 56,
+      "nome": "André Barbosa",
+      "email": "cliente056@cine2000.local",
+      "telefone": "(31) 96892-2732",
+      "data_cadastro": "2002-01-06",
+      "ativo": true
+    },
+    {
+      "id_cliente": 57,
+      "nome": "Vanessa Santos",
+      "email": "cliente057@cine2000.local",
+      "telefone": "(31) 97901-4532",
+      "data_cadastro": "2004-05-09",
+      "ativo": true
+    },
+    {
+      "id_cliente": 58,
+      "nome": "Renata Ferreira",
+      "email": "cliente058@cine2000.local",
+      "telefone": "(31) 94104-2008",
+      "data_cadastro": "2003-08-21",
+      "ativo": true
+    },
+    {
+      "id_cliente": 59,
+      "nome": "Patrícia Rocha",
+      "email": "cliente059@cine2000.local",
+      "telefone": "(31) 94073-1777",
+      "data_cadastro": "2003-11-20",
+      "ativo": true
+    },
+    {
+      "id_cliente": 60,
+      "nome": "Eduardo Mendes",
+      "email": "cliente060@cine2000.local",
+      "telefone": "(31) 91200-4404",
+      "data_cadastro": "2001-12-05",
+      "ativo": true
+    },
+    {
+      "id_cliente": 61,
+      "nome": "Bruno Martins",
+      "email": "cliente061@cine2000.local",
+      "telefone": "(31) 92758-4433",
+      "data_cadastro": "2002-04-03",
+      "ativo": false
+    },
+    {
+      "id_cliente": 62,
+      "nome": "Felipe Oliveira",
+      "email": "cliente062@cine2000.local",
+      "telefone": "(31) 92147-2379",
+      "data_cadastro": "2002-12-01",
+      "ativo": true
+    },
+    {
+      "id_cliente": 63,
+      "nome": "Lucas Moreira",
+      "email": "cliente063@cine2000.local",
+      "telefone": "(31) 94478-8101",
+      "data_cadastro": "2000-04-02",
+      "ativo": true
+    },
+    {
+      "id_cliente": 64,
+      "nome": "Rafael Santos",
+      "email": "cliente064@cine2000.local",
+      "telefone": "(31) 92772-3983",
+      "data_cadastro": "2002-08-18",
+      "ativo": true
+    },
+    {
+      "id_cliente": 65,
+      "nome": "Patrícia Teixeira",
+      "email": "cliente065@cine2000.local",
+      "telefone": "(31) 99741-7740",
+      "data_cadastro": "2001-08-01",
+      "ativo": true
+    },
+    {
+      "id_cliente": 66,
+      "nome": "Juliana Nunes",
+      "email": "cliente066@cine2000.local",
+      "telefone": "(31) 97854-5326",
+      "data_cadastro": "2003-03-18",
+      "ativo": true
+    },
+    {
+      "id_cliente": 67,
+      "nome": "Thiago Martins",
+      "email": "cliente067@cine2000.local",
+      "telefone": "(31) 99793-6441",
+      "data_cadastro": "2002-08-09",
+      "ativo": true
+    },
+    {
+      "id_cliente": 68,
+      "nome": "Fernanda Mendes",
+      "email": "cliente068@cine2000.local",
+      "telefone": "(31) 99066-3976",
+      "data_cadastro": "2003-05-28",
+      "ativo": false
+    },
+    {
+      "id_cliente": 69,
+      "nome": "Bianca Araújo",
+      "email": "cliente069@cine2000.local",
+      "telefone": "(31) 94028-8151",
+      "data_cadastro": "2002-01-19",
+      "ativo": true
+    },
+    {
+      "id_cliente": 70,
+      "nome": "Renata Souza",
+      "email": "cliente070@cine2000.local",
+      "telefone": "(31) 94113-7485",
+      "data_cadastro": "2003-06-22",
+      "ativo": true
+    },
+    {
+      "id_cliente": 71,
+      "nome": "Renata Rocha",
+      "email": "cliente071@cine2000.local",
+      "telefone": "(31) 94737-6077",
+      "data_cadastro": "2001-09-04",
+      "ativo": true
+    },
+    {
+      "id_cliente": 72,
+      "nome": "Bianca Lima",
+      "email": "cliente072@cine2000.local",
+      "telefone": "(31) 97561-9392",
+      "data_cadastro": "2003-07-03",
+      "ativo": true
+    },
+    {
+      "id_cliente": 73,
+      "nome": "Juliana Lima",
+      "email": "cliente073@cine2000.local",
+      "telefone": "(31) 96108-7004",
+      "data_cadastro": "2004-12-04",
+      "ativo": true
+    },
+    {
+      "id_cliente": 74,
+      "nome": "Bruno Oliveira",
+      "email": "cliente074@cine2000.local",
+      "telefone": "(31) 97590-7873",
+      "data_cadastro": "2002-03-28",
+      "ativo": true
+    },
+    {
+      "id_cliente": 75,
+      "nome": "Bruno Souza",
+      "email": "cliente075@cine2000.local",
+      "telefone": "(31) 94759-4895",
+      "data_cadastro": "2003-03-08",
+      "ativo": false
+    },
+    {
+      "id_cliente": 76,
+      "nome": "Vanessa Santos",
+      "email": "cliente076@cine2000.local",
+      "telefone": "(31) 93735-1524",
+      "data_cadastro": "2001-06-16",
+      "ativo": true
+    },
+    {
+      "id_cliente": 77,
+      "nome": "Carlos Souza",
+      "email": "cliente077@cine2000.local",
+      "telefone": "(31) 93124-7369",
+      "data_cadastro": "2001-06-03",
+      "ativo": true
+    },
+    {
+      "id_cliente": 78,
+      "nome": "Marina Santos",
+      "email": "cliente078@cine2000.local",
+      "telefone": "(31) 95815-3410",
+      "data_cadastro": "2002-05-03",
+      "ativo": true
+    },
+    {
+      "id_cliente": 79,
+      "nome": "Eduardo Araújo",
+      "email": "cliente079@cine2000.local",
+      "telefone": "(31) 95568-4346",
+      "data_cadastro": "2001-02-04",
+      "ativo": true
+    },
+    {
+      "id_cliente": 80,
+      "nome": "Bianca Costa",
+      "email": "cliente080@cine2000.local",
+      "telefone": "(31) 99143-4365",
+      "data_cadastro": "2001-09-14",
+      "ativo": true
+    }
+  ],
+  "exemplares": [
+    {
+      "id_exemplar": 1,
+      "id_filme": 137,
+      "codigo_exemplar": "C2K-0001",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 2,
+      "id_filme": 6,
+      "codigo_exemplar": "C2K-0002",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 3,
+      "id_filme": 15,
+      "codigo_exemplar": "C2K-0003",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 4,
+      "id_filme": 51,
+      "codigo_exemplar": "C2K-0004",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 5,
+      "id_filme": 107,
+      "codigo_exemplar": "C2K-0005",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 6,
+      "id_filme": 39,
+      "codigo_exemplar": "C2K-0006",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 7,
+      "id_filme": 140,
+      "codigo_exemplar": "C2K-0007",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 8,
+      "id_filme": 71,
+      "codigo_exemplar": "C2K-0008",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 9,
+      "id_filme": 35,
+      "codigo_exemplar": "C2K-0009",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 10,
+      "id_filme": 55,
+      "codigo_exemplar": "C2K-0010",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 11,
+      "id_filme": 125,
+      "codigo_exemplar": "C2K-0011",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 12,
+      "id_filme": 90,
+      "codigo_exemplar": "C2K-0012",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 13,
+      "id_filme": 139,
+      "codigo_exemplar": "C2K-0013",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 14,
+      "id_filme": 33,
+      "codigo_exemplar": "C2K-0014",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 15,
+      "id_filme": 56,
+      "codigo_exemplar": "C2K-0015",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 16,
+      "id_filme": 134,
+      "codigo_exemplar": "C2K-0016",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 17,
+      "id_filme": 73,
+      "codigo_exemplar": "C2K-0017",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 18,
+      "id_filme": 114,
+      "codigo_exemplar": "C2K-0018",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 19,
+      "id_filme": 26,
+      "codigo_exemplar": "C2K-0019",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 20,
+      "id_filme": 12,
+      "codigo_exemplar": "C2K-0020",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 21,
+      "id_filme": 2,
+      "codigo_exemplar": "C2K-0021",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 22,
+      "id_filme": 70,
+      "codigo_exemplar": "C2K-0022",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 23,
+      "id_filme": 40,
+      "codigo_exemplar": "C2K-0023",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 24,
+      "id_filme": 137,
+      "codigo_exemplar": "C2K-0024",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 25,
+      "id_filme": 68,
+      "codigo_exemplar": "C2K-0025",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 26,
+      "id_filme": 42,
+      "codigo_exemplar": "C2K-0026",
+      "tipo_midia": "VHS",
+      "situacao": "MANUTENCAO"
+    },
+    {
+      "id_exemplar": 27,
+      "id_filme": 58,
+      "codigo_exemplar": "C2K-0027",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 28,
+      "id_filme": 162,
+      "codigo_exemplar": "C2K-0028",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 29,
+      "id_filme": 59,
+      "codigo_exemplar": "C2K-0029",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 30,
+      "id_filme": 159,
+      "codigo_exemplar": "C2K-0030",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 31,
+      "id_filme": 53,
+      "codigo_exemplar": "C2K-0031",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 32,
+      "id_filme": 33,
+      "codigo_exemplar": "C2K-0032",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 33,
+      "id_filme": 116,
+      "codigo_exemplar": "C2K-0033",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 34,
+      "id_filme": 141,
+      "codigo_exemplar": "C2K-0034",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 35,
+      "id_filme": 153,
+      "codigo_exemplar": "C2K-0035",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 36,
+      "id_filme": 22,
+      "codigo_exemplar": "C2K-0036",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 37,
+      "id_filme": 145,
+      "codigo_exemplar": "C2K-0037",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 38,
+      "id_filme": 122,
+      "codigo_exemplar": "C2K-0038",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 39,
+      "id_filme": 90,
+      "codigo_exemplar": "C2K-0039",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 40,
+      "id_filme": 71,
+      "codigo_exemplar": "C2K-0040",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 41,
+      "id_filme": 89,
+      "codigo_exemplar": "C2K-0041",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 42,
+      "id_filme": 94,
+      "codigo_exemplar": "C2K-0042",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 43,
+      "id_filme": 141,
+      "codigo_exemplar": "C2K-0043",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 44,
+      "id_filme": 43,
+      "codigo_exemplar": "C2K-0044",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 45,
+      "id_filme": 118,
+      "codigo_exemplar": "C2K-0045",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 46,
+      "id_filme": 128,
+      "codigo_exemplar": "C2K-0046",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 47,
+      "id_filme": 112,
+      "codigo_exemplar": "C2K-0047",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 48,
+      "id_filme": 159,
+      "codigo_exemplar": "C2K-0048",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 49,
+      "id_filme": 61,
+      "codigo_exemplar": "C2K-0049",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 50,
+      "id_filme": 38,
+      "codigo_exemplar": "C2K-0050",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 51,
+      "id_filme": 12,
+      "codigo_exemplar": "C2K-0051",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 52,
+      "id_filme": 43,
+      "codigo_exemplar": "C2K-0052",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 53,
+      "id_filme": 15,
+      "codigo_exemplar": "C2K-0053",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 54,
+      "id_filme": 135,
+      "codigo_exemplar": "C2K-0054",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 55,
+      "id_filme": 135,
+      "codigo_exemplar": "C2K-0055",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 56,
+      "id_filme": 90,
+      "codigo_exemplar": "C2K-0056",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 57,
+      "id_filme": 151,
+      "codigo_exemplar": "C2K-0057",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 58,
+      "id_filme": 111,
+      "codigo_exemplar": "C2K-0058",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 59,
+      "id_filme": 22,
+      "codigo_exemplar": "C2K-0059",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 60,
+      "id_filme": 157,
+      "codigo_exemplar": "C2K-0060",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 61,
+      "id_filme": 63,
+      "codigo_exemplar": "C2K-0061",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 62,
+      "id_filme": 147,
+      "codigo_exemplar": "C2K-0062",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 63,
+      "id_filme": 56,
+      "codigo_exemplar": "C2K-0063",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 64,
+      "id_filme": 90,
+      "codigo_exemplar": "C2K-0064",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 65,
+      "id_filme": 114,
+      "codigo_exemplar": "C2K-0065",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 66,
+      "id_filme": 137,
+      "codigo_exemplar": "C2K-0066",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 67,
+      "id_filme": 56,
+      "codigo_exemplar": "C2K-0067",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 68,
+      "id_filme": 161,
+      "codigo_exemplar": "C2K-0068",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 69,
+      "id_filme": 169,
+      "codigo_exemplar": "C2K-0069",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 70,
+      "id_filme": 80,
+      "codigo_exemplar": "C2K-0070",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 71,
+      "id_filme": 105,
+      "codigo_exemplar": "C2K-0071",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 72,
+      "id_filme": 41,
+      "codigo_exemplar": "C2K-0072",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 73,
+      "id_filme": 57,
+      "codigo_exemplar": "C2K-0073",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 74,
+      "id_filme": 104,
+      "codigo_exemplar": "C2K-0074",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 75,
+      "id_filme": 31,
+      "codigo_exemplar": "C2K-0075",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 76,
+      "id_filme": 55,
+      "codigo_exemplar": "C2K-0076",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 77,
+      "id_filme": 92,
+      "codigo_exemplar": "C2K-0077",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 78,
+      "id_filme": 144,
+      "codigo_exemplar": "C2K-0078",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 79,
+      "id_filme": 152,
+      "codigo_exemplar": "C2K-0079",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 80,
+      "id_filme": 122,
+      "codigo_exemplar": "C2K-0080",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 81,
+      "id_filme": 135,
+      "codigo_exemplar": "C2K-0081",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 82,
+      "id_filme": 167,
+      "codigo_exemplar": "C2K-0082",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 83,
+      "id_filme": 87,
+      "codigo_exemplar": "C2K-0083",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 84,
+      "id_filme": 27,
+      "codigo_exemplar": "C2K-0084",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 85,
+      "id_filme": 75,
+      "codigo_exemplar": "C2K-0085",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 86,
+      "id_filme": 8,
+      "codigo_exemplar": "C2K-0086",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 87,
+      "id_filme": 91,
+      "codigo_exemplar": "C2K-0087",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 88,
+      "id_filme": 77,
+      "codigo_exemplar": "C2K-0088",
+      "tipo_midia": "VHS",
+      "situacao": "MANUTENCAO"
+    },
+    {
+      "id_exemplar": 89,
+      "id_filme": 125,
+      "codigo_exemplar": "C2K-0089",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 90,
+      "id_filme": 35,
+      "codigo_exemplar": "C2K-0090",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 91,
+      "id_filme": 79,
+      "codigo_exemplar": "C2K-0091",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 92,
+      "id_filme": 33,
+      "codigo_exemplar": "C2K-0092",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 93,
+      "id_filme": 71,
+      "codigo_exemplar": "C2K-0093",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 94,
+      "id_filme": 142,
+      "codigo_exemplar": "C2K-0094",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 95,
+      "id_filme": 94,
+      "codigo_exemplar": "C2K-0095",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 96,
+      "id_filme": 56,
+      "codigo_exemplar": "C2K-0096",
+      "tipo_midia": "VHS",
+      "situacao": "MANUTENCAO"
+    },
+    {
+      "id_exemplar": 97,
+      "id_filme": 70,
+      "codigo_exemplar": "C2K-0097",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 98,
+      "id_filme": 130,
+      "codigo_exemplar": "C2K-0098",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 99,
+      "id_filme": 19,
+      "codigo_exemplar": "C2K-0099",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 100,
+      "id_filme": 104,
+      "codigo_exemplar": "C2K-0100",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 101,
+      "id_filme": 112,
+      "codigo_exemplar": "C2K-0101",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 102,
+      "id_filme": 170,
+      "codigo_exemplar": "C2K-0102",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 103,
+      "id_filme": 58,
+      "codigo_exemplar": "C2K-0103",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 104,
+      "id_filme": 22,
+      "codigo_exemplar": "C2K-0104",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 105,
+      "id_filme": 87,
+      "codigo_exemplar": "C2K-0105",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 106,
+      "id_filme": 167,
+      "codigo_exemplar": "C2K-0106",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 107,
+      "id_filme": 59,
+      "codigo_exemplar": "C2K-0107",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 108,
+      "id_filme": 92,
+      "codigo_exemplar": "C2K-0108",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 109,
+      "id_filme": 12,
+      "codigo_exemplar": "C2K-0109",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 110,
+      "id_filme": 152,
+      "codigo_exemplar": "C2K-0110",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 111,
+      "id_filme": 20,
+      "codigo_exemplar": "C2K-0111",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 112,
+      "id_filme": 66,
+      "codigo_exemplar": "C2K-0112",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 113,
+      "id_filme": 10,
+      "codigo_exemplar": "C2K-0113",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 114,
+      "id_filme": 8,
+      "codigo_exemplar": "C2K-0114",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 115,
+      "id_filme": 110,
+      "codigo_exemplar": "C2K-0115",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 116,
+      "id_filme": 146,
+      "codigo_exemplar": "C2K-0116",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 117,
+      "id_filme": 56,
+      "codigo_exemplar": "C2K-0117",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 118,
+      "id_filme": 142,
+      "codigo_exemplar": "C2K-0118",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 119,
+      "id_filme": 82,
+      "codigo_exemplar": "C2K-0119",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 120,
+      "id_filme": 128,
+      "codigo_exemplar": "C2K-0120",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 121,
+      "id_filme": 33,
+      "codigo_exemplar": "C2K-0121",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 122,
+      "id_filme": 133,
+      "codigo_exemplar": "C2K-0122",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 123,
+      "id_filme": 58,
+      "codigo_exemplar": "C2K-0123",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 124,
+      "id_filme": 70,
+      "codigo_exemplar": "C2K-0124",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 125,
+      "id_filme": 154,
+      "codigo_exemplar": "C2K-0125",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 126,
+      "id_filme": 52,
+      "codigo_exemplar": "C2K-0126",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 127,
+      "id_filme": 96,
+      "codigo_exemplar": "C2K-0127",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 128,
+      "id_filme": 56,
+      "codigo_exemplar": "C2K-0128",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 129,
+      "id_filme": 110,
+      "codigo_exemplar": "C2K-0129",
+      "tipo_midia": "DVD",
+      "situacao": "MANUTENCAO"
+    },
+    {
+      "id_exemplar": 130,
+      "id_filme": 143,
+      "codigo_exemplar": "C2K-0130",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 131,
+      "id_filme": 121,
+      "codigo_exemplar": "C2K-0131",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 132,
+      "id_filme": 120,
+      "codigo_exemplar": "C2K-0132",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 133,
+      "id_filme": 4,
+      "codigo_exemplar": "C2K-0133",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 134,
+      "id_filme": 101,
+      "codigo_exemplar": "C2K-0134",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 135,
+      "id_filme": 61,
+      "codigo_exemplar": "C2K-0135",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 136,
+      "id_filme": 58,
+      "codigo_exemplar": "C2K-0136",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 137,
+      "id_filme": 146,
+      "codigo_exemplar": "C2K-0137",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 138,
+      "id_filme": 139,
+      "codigo_exemplar": "C2K-0138",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 139,
+      "id_filme": 35,
+      "codigo_exemplar": "C2K-0139",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 140,
+      "id_filme": 80,
+      "codigo_exemplar": "C2K-0140",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 141,
+      "id_filme": 46,
+      "codigo_exemplar": "C2K-0141",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 142,
+      "id_filme": 116,
+      "codigo_exemplar": "C2K-0142",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 143,
+      "id_filme": 88,
+      "codigo_exemplar": "C2K-0143",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 144,
+      "id_filme": 129,
+      "codigo_exemplar": "C2K-0144",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 145,
+      "id_filme": 70,
+      "codigo_exemplar": "C2K-0145",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 146,
+      "id_filme": 84,
+      "codigo_exemplar": "C2K-0146",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 147,
+      "id_filme": 41,
+      "codigo_exemplar": "C2K-0147",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 148,
+      "id_filme": 138,
+      "codigo_exemplar": "C2K-0148",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 149,
+      "id_filme": 35,
+      "codigo_exemplar": "C2K-0149",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 150,
+      "id_filme": 138,
+      "codigo_exemplar": "C2K-0150",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 151,
+      "id_filme": 50,
+      "codigo_exemplar": "C2K-0151",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 152,
+      "id_filme": 23,
+      "codigo_exemplar": "C2K-0152",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 153,
+      "id_filme": 126,
+      "codigo_exemplar": "C2K-0153",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 154,
+      "id_filme": 34,
+      "codigo_exemplar": "C2K-0154",
+      "tipo_midia": "VHS",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 155,
+      "id_filme": 26,
+      "codigo_exemplar": "C2K-0155",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 156,
+      "id_filme": 146,
+      "codigo_exemplar": "C2K-0156",
+      "tipo_midia": "DVD",
+      "situacao": "ALUGADO"
+    },
+    {
+      "id_exemplar": 157,
+      "id_filme": 114,
+      "codigo_exemplar": "C2K-0157",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 158,
+      "id_filme": 108,
+      "codigo_exemplar": "C2K-0158",
+      "tipo_midia": "VHS",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 159,
+      "id_filme": 30,
+      "codigo_exemplar": "C2K-0159",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    },
+    {
+      "id_exemplar": 160,
+      "id_filme": 134,
+      "codigo_exemplar": "C2K-0160",
+      "tipo_midia": "DVD",
+      "situacao": "DISPONIVEL"
+    }
+  ]
+}

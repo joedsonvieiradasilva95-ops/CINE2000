@@ -1,0 +1,51 @@
+exemplares 
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Exemplares — CINE 2000</title>
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <header class="topbar">
+      <a class="brand" href="../index.html"><span>CINE</span> 2000</a>
+      <nav class="nav">
+        <a class="" href="../index.html">Início</a>
+        <a class="" href="filmes.html">Filmes</a>
+        <a class="" href="clientes.html">Clientes</a>
+        <a class="active" href="exemplares.html">Exemplares</a>
+        <a class="" href="locacoes.html">Locações</a>
+      </nav>
+    </header>
+    
+<main class="page-wrap">
+  <div class="page-head"><p class="eyebrow">CINE 2000</p><h1>Exemplares</h1></div>
+  
+<div class="dashboard-grid">
+<div class="metric-card"><strong id="total">0</strong><span>Exemplares</span></div>
+<div class="metric-card"><strong id="vhs">0</strong><span>VHS</span></div>
+<div class="metric-card"><strong id="dvd">0</strong><span>DVD</span></div>
+</div>
+<div class="filters page-filters"><input id="q" type="search" placeholder="Pesquisar código ou filme..."><select id="type"><option value="">Todas as mídias</option><option>VHS</option><option>DVD</option></select></div>
+<div id="table" class="data-table"></div>
+
+</main>
+<footer class="footer">CINE 2000 • Sistema de gestão de locadora retrô</footer>
+<script>
+const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]));
+
+fetch("../data/catalogo.json").then(r=>r.json()).then(x=>{
+let map=Object.fromEntries(x.filmes.map(f=>[f.id_filme,f.titulo]));D=x.exemplares;
+total.textContent=D.length;vhs.textContent=D.filter(e=>e.tipo_midia=='VHS').length;dvd.textContent=D.filter(e=>e.tipo_midia=='DVD').length;render();
+});
+function render(){let q=document.getElementById('q').value.toLowerCase(),t=type.value,a=D.filter(e=>(!q||`${e.codigo_exemplar} ${map[e.id_filme]}`.toLowerCase().includes(q))&&(!t||e.tipo_midia==t));
+table.innerHTML=`<table><thead><tr><th>Código</th><th>Filme</th><th>Mídia</th><th>Situação</th></tr></thead><tbody>${a.map(e=>`<tr><td>${esc(e.codigo_exemplar)}</td><td>${esc(map[e.id_filme])}</td><td>${e.tipo_midia}</td><td>${esc(e.situacao)}</td></tr>`).join('')}</tbody></table>`;
+}
+q.oninput=type.oninput=render;
+
+</script>
+</body>
+</html>
